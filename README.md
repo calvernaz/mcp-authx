@@ -21,14 +21,14 @@ A Python library for adding OAuth 2.1 + PKCE authentication and fine-grained aut
 
 ```bash
 # Install the package
-uv add mcp-auth-toolkit
+uv add mcp-authx
 
 # Or install with FastMCP support
-uv add mcp-auth-toolkit[fastmcp]
+uv add mcp-authx[fastmcp]
 
 # For development
-git clone https://github.com/your-org/mcp-auth-toolkit
-cd mcp-auth-toolkit
+git clone
+cd mcp-authx
 uv sync --group dev
 ```
 
